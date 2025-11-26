@@ -2,11 +2,11 @@
 
 ## **构建下一代飞行模拟基础设施**
 
-欢迎来到 **FSD Universe**！我们是一个专注于**飞行模拟联机服务端**及其**生态系统**的开源组织。
+FSD Universe 是一个专注于飞行模拟联机服务端及其生态系统的开源组织。
 
-我们的使命不是空想，而是通过一行行代码，切实地推动飞行模拟联机技术向**高性能、高可用性与现代化**演进。
+我们通过现代化的技术栈，推动飞行模拟联机技术向高性能、高可用性架构演进。
 
-这里是以 **SimpleFSD** 项目为核心的开发阵地，我们正在打造一个模块化、可扩展的飞行模拟后端“星系”。
+这里是以 SimpleFSD 项目为核心的开发阵地，我们正在构建一个模块化、可扩展的飞行模拟后端生态系统。
 
 ---
 
@@ -15,17 +15,17 @@
 ### **1. SimpleFSD - 现代化的全功能FSD服务器**
 [![SimpleFSD](https://img.shields.io/github/v/release/Flyleague-Collection/SimpleFSD?label=SimpleFSD&logo=go)](https://github.com/Flyleague-Collection/SimpleFSD)
 
-这是组织的旗舰项目，一个用 **Go 语言**编写的高性能飞行模拟联机服务器。
+组织的旗舰项目，采用 Go 语言编写的高性能飞行模拟联机服务器。
 
-*   **协议支持**: 完整支持 **FSD Version 3.000 Draft 9**，并兼容 **VATSIM(TOKEN)** 及部分 **VATSIM2022** 协议。
-*   **专业特性**: 实现**计划同步与锁定**、**增强的管制员信息**、高频率的 **VisualPosition** 更新（支持0.2秒/次）。
-*   **多协议网关**: 不仅是传统的TCP FSD服务器，还内置了**全功能HTTP API服务器**和 **WebSocket** 支持，为现代Web应用和移动应用提供了无缝连接的可能。
-*   **持续进化**: 项目正处于快速迭代期，我们不会满足于现有架构，为了更优秀的架构而勇于重构。
+- 全面协议支持：完整实现 FSD Version 3.000 Draft 9，兼容 VATSIM(TOKEN) 及 VATSIM2022 协议
+- 专业级特性：智能计划同步与锁定、增强的管制员信息、高频率 VisualPosition 更新（支持0.2秒/次）
+- 多协议网关：集成传统TCP FSD、全功能HTTP API服务器和 WebSocket，为现代应用提供无缝连接
+- 持续架构演进：处于快速迭代期，为追求卓越性能而不懈重构
 
 ### **2. SimpleFSD-Lite - 极致精简的核心FSD**
 [![Lite](https://img.shields.io/github/v/release/Flyleague-Collection/SimpleFSD-Lite?label=SimpleFSD-Lite&logo=go)](https://github.com/Flyleague-Collection/SimpleFSD-Lite)
 
-为追求轻量与稳定而生的版本，剥离了高级功能，只保留最核心的FSD协议实现，是部署纯联飞服务器的理想选择。
+专为轻量与稳定部署设计的版本，保留核心FSD协议实现，是纯联飞服务器的理想选择。
 
 ---
 
@@ -49,13 +49,13 @@
 
 *  是一名**Go开发者**，对高并发网络服务感兴趣。
 *  是一名**飞行模拟爱好者**，了解联飞协议并有改进想法。
-*  或者，你只是觉得：“哇，这实在是太酷了”。
+*  或者只是觉得：“哇，这实在是太酷了”。
 
 我们诚挚邀请你参与进来。你可以通过以下方式开始：
 
 1.  **试用与反馈**: 下载 [SimpleFSD](https://github.com/Flyleague-Collection/SimpleFSD/releases/latest) 的最新版本进行测试。
 2.  **报告问题**: 在 GitHub 上提交你遇到的 Bug 或功能建议。
-3.  **贡献代码**: 我们欢迎任何人提交 Pull Request。
+3.  **贡献代码**: 欢迎提交 Pull Request。
 
 **让我们一起，从重构一个FSD开始，共同构建飞行模拟的未来。**
 
