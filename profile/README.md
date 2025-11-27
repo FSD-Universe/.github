@@ -1,12 +1,12 @@
 # **FSD Universe**
 
-## **构建下一代飞行模拟基础设施**
+## **下一代飞行模拟基础设施**
 
 FSD Universe 是一个专注于飞行模拟联机服务端及其生态系统的开源组织。
 
-我们通过现代化的技术栈，推动飞行模拟联机技术向高性能、高可用性架构演进。
+在传统飞行模拟联机领域，技术栈往往停留在十年前的水平。
 
-这里是以 SimpleFSD 项目为核心的开发阵地，我们正在构建一个模块化、可扩展的飞行模拟后端生态系统。
+我们通过现代化的技术栈，推动飞行模拟联机技术向高性能、高可用性架构演进，为整个生态系统注入新的活力。
 
 ---
 
@@ -27,8 +27,10 @@ FSD Universe 是一个专注于飞行模拟联机服务端及其生态系统的�
 
 专为轻量与稳定部署设计的版本，保留核心FSD协议实现，是纯联飞服务器的理想选择。
 
-### **3. MetarService - METAR和TAF数据融合服务**
+### **3. MetarService - 气象数据服务**
 [![METAR](https://img.shields.io/github/v/release/FSD-Universe/metar-service?label=MetarService&logo=go)](https://github.com/FSD-Universe/metar-service)
+
+高度可定制的气象数据融合服务，可支持多种数据源的数据融合
 
 ---
 
@@ -60,7 +62,7 @@ FSD Universe 是一个专注于飞行模拟联机服务端及其生态系统的�
 2.  **报告问题**: 在 GitHub 上提交你遇到的 Bug 或功能建议。
 3.  **贡献代码**: 欢迎提交 Pull Request。
 
-**让我们一起，从重构一个FSD开始，共同构建飞行模拟的未来。**
+**我们相信，开源协作的力量能够推动飞行模拟技术向前迈进一大步。加入我们，一起构建这个激动人心的未来！**
 
 ## 💝 支持我们
 ### ✨ 项目初心
@@ -117,4 +119,5 @@ FSD Universe 是一个完全免费、开源的技术共享项目
 保持热爱，一起飞行！ 🛫✨
 
 ---
-**组织关键词:** `flight-simulation` `fsd` `vatsim` `golang` `high-performance` `open-source` `atc` `multi-protocol` `websocket` `api-server`
+
+**FSD Universe - 重新定义飞行模拟联机的可能性**
