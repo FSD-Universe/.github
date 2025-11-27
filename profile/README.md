@@ -10,10 +10,10 @@ FSD Universe 是一个专注于飞行模拟联机服务端及其生态系统的�
 
 ---
 
-## 🎯 **核心项目**
+## 🎯 **项目列表**
 
 ### **1. SimpleFSD - 现代化的全功能FSD服务器**
-[![SimpleFSD](https://img.shields.io/github/v/release/Flyleague-Collection/SimpleFSD?label=SimpleFSD&logo=go)](https://github.com/Flyleague-Collection/SimpleFSD)
+[![SimpleFSD](https://img.shields.io/github/v/release/FSD-Universe/SimpleFSD?label=SimpleFSD&logo=go)](https://github.com/FSD-Universe/SimpleFSD)
 
 组织的旗舰项目，采用 Go 语言编写的高性能飞行模拟联机服务器。
 
@@ -23,9 +23,12 @@ FSD Universe 是一个专注于飞行模拟联机服务端及其生态系统的�
 - 持续架构演进：处于快速迭代期，为追求卓越性能而不懈重构
 
 ### **2. SimpleFSD-Lite - 极致精简的核心FSD**
-[![Lite](https://img.shields.io/github/v/release/Flyleague-Collection/SimpleFSD-Lite?label=SimpleFSD-Lite&logo=go)](https://github.com/Flyleague-Collection/SimpleFSD-Lite)
+[![Lite](https://img.shields.io/github/v/release/FSD-Universe/SimpleFSD-Lite?label=SimpleFSD-Lite&logo=go)](https://github.com/FSD-Universe/SimpleFSD-Lite)
 
 专为轻量与稳定部署设计的版本，保留核心FSD协议实现，是纯联飞服务器的理想选择。
+
+### **3. MetarService - METAR和TAF数据融合服务**
+[![METAR](https://img.shields.io/github/v/release/FSD-Universe/metar-service?label=MetarService&logo=go)](https://github.com/FSD-Universe/metar-service)
 
 ---
 
